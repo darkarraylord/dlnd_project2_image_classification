@@ -7,4 +7,4 @@ On our slack forums we discussed running it on floydhub (THANK YOU FLOYBHUB!!!).
 
 Also thank you for the creator of the repository https://github.com/ludwiktrammer/deep-learning/tree/master/image-classification
 
-I built over the instructions and maintained the usage of Ciphar10 dataset by floydhub.
+I coded using ludwikktrammer's repo and maintained the usage of Ciphar10 dataset by floydhub instead of downloading again to their servers.
